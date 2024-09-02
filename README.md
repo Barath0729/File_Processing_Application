@@ -11,7 +11,7 @@
 
 
 ### Flow of Operations:
-File Upload: A file is uploaded to an S3 bucket.
+File Upload:   A file is uploaded to an S3 bucket.
 S3 Event Trigger: S3 generates an event, which triggers the first Lambda function.
 File Validation: The Lambda function checks if the uploaded file is named products.csv.
 If the file is valid, the function invokes the second Lambda for processing.
