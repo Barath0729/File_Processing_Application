@@ -7,7 +7,7 @@ Key Components:
 4.AWS IAM
 5.AWS CloudWatch Logs
 
-![image](https://github.com/user-attachments/assets/8586bce9-a61b-4e0c-ae22-bf77e5d90300)
+![Retrospectives](https://github.com/user-attachments/assets/b3196854-5872-47f6-bea4-5e7e47aeb2c5)
 
 
 ###Flow of Operations:
