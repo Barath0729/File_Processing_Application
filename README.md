@@ -3,14 +3,12 @@
 ### Key Components:
 1.AWS S3
 
-
-
 2.AWS Lambda
+
 3.AWS SNS
 
-
-
 4.AWS IAM
+
 5.AWS CloudWatch Logs
 
 ![Retrospectives](https://github.com/user-attachments/assets/b3196854-5872-47f6-bea4-5e7e47aeb2c5)
