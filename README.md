@@ -11,7 +11,9 @@
 
 5.AWS CloudWatch Logs
 
+
 ![Retrospectives](https://github.com/user-attachments/assets/b3196854-5872-47f6-bea4-5e7e47aeb2c5)
+
 
 
 ### Flow of Operations:
@@ -28,7 +30,11 @@ The second Lambda function processes the file content if the validation succeeds
 ### Error Handling:
 If an error occurs during file validation, Lambda raises an exception, which is captured by AWS Lambda Destinations, and SNS sends an alert.
 
+
+
 ![Screenshot (129)](https://github.com/user-attachments/assets/087ae6ee-962e-4155-9ba6-54842a5ef897)
+
+
 
 
 ### Benefits:
