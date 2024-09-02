@@ -2,8 +2,14 @@
 
 ### Key Components:
 1.AWS S3
+
+
+
 2.AWS Lambda
 3.AWS SNS
+
+
+
 4.AWS IAM
 5.AWS CloudWatch Logs
 
