@@ -1,6 +1,6 @@
 ###AWS Lambda-based File Processing with S3 and SNS Integration
 
-Key Components:
+###Key Components:
 1.AWS S3
 2.AWS Lambda
 3.AWS SNS
