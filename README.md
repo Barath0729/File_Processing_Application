@@ -16,8 +16,8 @@ A file is uploaded to an S3 bucket.
 ### S3 Event Trigger:
 S3 generates an event, which triggers the first Lambda function.
 ### File Validation:
-The Lambda function checks if the uploaded file is named products.csv.### 
-If the file is valid, the function invokes the second Lambda for processing.### 
+The Lambda function checks if the uploaded file is named products.csv.
+If the file is valid, the function invokes the second Lambda for processing.
 If the file name is incorrect, an error is raised, and a failure notification is sent via SNS.
 ### File Processing: 
 The second Lambda function processes the file content if the validation succeeds.
